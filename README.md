@@ -11,5 +11,3 @@ Esta seccion fue agregada desde la rama feature/documentacion.
 PRACTICA GIT Y GITHUB 3
 
 ## sincronizacion
-## Cambio que se va a revertir
-Esta seccion se agregara temporalmente para practicar git revert.
